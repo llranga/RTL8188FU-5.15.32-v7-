@@ -10,6 +10,7 @@ LKM (Loadable kernel module) of RTL8188FU realtek wifi usb adapter for (raspberr
   <code>
   https://github.com/llranga/RTL8188FU-5.15.32-v7-.git
   </code>
+  <br>
   <code>
   tar -zxvf RTL8188FU-5.15.32-v7-1538.tar.gz
   </code>
