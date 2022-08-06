@@ -1,5 +1,5 @@
 # RTL8188FU-5.15.32-v7+ #1538
-LKM (Loadable kernel module) for (raspberry pi) raspiOS running kernel 5.15.32-v7+ #1538
+LKM (Loadable kernel module) of RTL8188FU realtek wifi usb adapter for (raspberry pi) raspiOS running kernel 5.15.32-v7+ #1538 
 # Make sure your kernel is 5.15.32-v7+ #1538 by running command
   uname -a
 
