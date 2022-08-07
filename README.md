@@ -17,5 +17,5 @@ LKM (Loadable kernel module) of RTL8188FU realtek wifi usb adapter for (raspberr
   
 # In the extracted folder run install.sh
   <code>
-  ./install.sh
+  sudo ./install.sh
   </code>
